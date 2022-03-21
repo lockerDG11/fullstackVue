@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App hahahah from Masterbranch"/>
+  <HelloWorld msg="Welcome to Your Vue.js App haha master branche"/>
 </template>
 
 <script>
